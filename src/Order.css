@@ -1,0 +1,35 @@
+.order{
+    align-items: center;
+    font-size: medium;
+    font-family: cursive;
+    text-align: center;
+    list-style: none;
+}
+.ord{
+    list-style: none;
+}
+/* .bdn{
+    padding: 30px;
+    margin-left: 20em;
+    
+}
+.pricrBtn{
+    padding: 30px;
+    margin-left:20em;
+   
+} */
+
+
+.qty{
+   
+   display: flex;
+    margin-left: 600px;
+
+}
+
+.prc{
+    display: flex;
+    margin-left: 100px;
+
+
+}

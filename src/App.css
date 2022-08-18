@@ -1,0 +1,97 @@
+.app {
+    background-color: aqua;
+    padding: 20px;
+    text-align: center;
+    font-size: medium;
+    font-family: cursive;
+   
+    
+    
+   }
+   .active{
+       color:fuchsia;
+   }
+       
+   .classnav{
+       display: flex;
+       text-decoration: none;
+       
+   } 
+   li{
+       list-style: none;
+       text-align: center;
+       margin: 10px;
+       cursor: pointer;
+       text-decoration: none;
+      
+   }
+   li:hover{
+       background-color: rgb(215, 125, 238);
+       color: rgb(202, 139, 238);
+       cursor: pointer;
+   }
+   .link{
+       text-decoration: none;
+       cursor: pointer;
+   }
+   .order{
+       background-color:rgb(169, 157, 245) ;
+     
+       text-decoration: none;
+   }
+   .product{
+    background-color: rgb(169, 157, 245);
+  
+    text-decoration: none;
+}
+.cart{
+    background-color: rgb(169, 157, 245);
+    
+    align-items: center;
+    text-align: center;
+    
+}
+.cartList{
+   
+   display:flex ;
+   flex-direction: row;
+   text-align: center;
+   align-items: center;
+  
+}
+.cartItems{
+   
+    margin:20px;
+    flex-direction: row;
+    
+ 
+}
+.prodName{
+    display: flex;
+    flex-direction: row;
+    font-size: x-large;
+    font-weight: bold;
+}
+.prodPrice{
+    display: flex;
+    flex-direction: row;
+}
+.prodQty{
+    display: flex;
+    flex-direction: row;
+}
+.prodAmt{
+    display: flex;
+    flex-direction: row;
+}
+.addQty{
+    padding:5px;
+    margin:5px;
+    align-items: center;
+}
+.minusQty{
+    padding:5px;
+    margin:5px;
+    align-items: center;
+
+}

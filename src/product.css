@@ -1,0 +1,18 @@
+/* .product{
+    background-color: aqua;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+} */
+li{
+    list-style-type: none;
+    margin: 10px;
+    box-shadow: 0 3px 8px 0 rgba(74,88,90,0.5);
+    padding: 5px;
+    align-items: center;
+}
+li:hover{
+    background-color: rgb(183, 94, 206);
+    color: rgb(11, 247, 168);
+}
