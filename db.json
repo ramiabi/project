@@ -1,0 +1,67 @@
+{
+  "producttask": [
+    {
+      "id": 1,
+      "name": "kurti",
+      "price": 250,
+      "amount": 0,
+      "quantity": 0
+    },
+    {
+      "id": 2,
+      "name": "jewels",
+      "price": 400,
+      "amount": 0,
+      "quantity": 0
+    },
+    {
+      "id": 3,
+      "name": "shirts",
+      "price": 250,
+      "amount": 0,
+      "quantity": 0
+    },
+    {
+      "id": 4,
+      "name": "gowns",
+      "price": 200,
+      "amount": 0,
+      "quantity": 0
+    },
+    {
+      "id": 5,
+      "name": "shoes",
+      "price": 150,
+      "amount": 0,
+      "quantity": 0
+    },
+    {
+      "id": 6,
+      "name": "frocks",
+      "price": 300,
+      "quantity": 0,
+      "amount": 0
+    },
+    {
+      "id": 7,
+      "name": "cosmetics",
+      "price": 350,
+      "quantity": 0,
+      "amount": 0
+    },
+    {
+      "id": 8,
+      "name": "watch",
+      "price": 200,
+      "quantity": 0,
+      "amount": 0
+    },
+    {
+      "id": 9,
+      "name": "bracelet",
+      "price": 50,
+      "quantity": 0,
+      "amount": 0
+    }
+  ]
+}
